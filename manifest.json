@@ -1,7 +1,7 @@
 {
-  "name": "enchantmentengine/ee-template",
+  "name": "enchantmentengine/ee-demos",
   "version": "0.0.0",
-  "engineVersion": "1.6.0",
-  "description": "The default project for iR Engine",
+  "engineVersion": "1.1.0",
+  "description": "The default project for Enchantment Engine",
   "thumbnail": "/static/IR_thumbnail.jpg"
 }
