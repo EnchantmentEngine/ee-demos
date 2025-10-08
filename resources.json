@@ -1,0 +1,18 @@
+{
+  "assets/scene.glb": {
+    "type": "file",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "scene.glb"
+  },
+  "public/scenes/city.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "city.gltf"
+  }
+}
